@@ -25,3 +25,12 @@ body {
 .blue {
   background-color: #23A6F0;
 }
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.card1 {
+  font-size: small;
+  padding-right: 10px;
+}
