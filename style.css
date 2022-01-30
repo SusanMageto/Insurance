@@ -214,12 +214,16 @@ body {
   align-items: center;
   padding: 20px;
 }
+.free,h2,p {
+  text-align: center;
+}
+.free ul li {
+  list-style: none;
+  text-align: left;
+}
 .bl {
   color:  #23A6F0;
   font-weight: 900;
-}
-.free ul li {
-  list-style: ;
 }
 .Premium {
   border-style: solid;
@@ -229,6 +233,10 @@ body {
   border-width: thin;
   align-items: center;
   padding: 20px;
+}
+.Premium ul li {
+  list-style: none;
+  text-align: left;
 }
 .par {
   color: #23A6F0;
@@ -243,6 +251,10 @@ body {
   padding: 20px;
   background-color: #252B42;
   color: white;
+}
+.standard ul li {
+  list-style: none;
+  text-align: left;
 }
 .pa {
   color: #23A6F0;
@@ -353,4 +365,7 @@ body {
 }
 .baby8 h4 {
   text-align: center;
+}
+.foot p {
+  font-size: x-small;
 }
