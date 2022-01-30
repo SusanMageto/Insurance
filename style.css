@@ -230,6 +230,9 @@ body {
   align-items: center;
   padding: 20px;
 }
+.par {
+  color: #23A6F0;
+}
 .standard {
   border-style: solid;
   border-color:  #23A6F0;
@@ -271,4 +274,26 @@ body {
   width: 200px;
   margin-top: 40px;
   margin-left: 60px;
+}
+.appointment {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+  font-size: x-small;
+}
+.appointment img {
+  width: 120px;
+}
+.appointment button {
+  background-color: #23A6F0;
+  border-color: none;
+  border-style: none;
+  border-radius: 2px;
+  color: white;
+  font-size: x-small;
+  width: 142px;
+}
+.apcard input {
+  font-size: x-small;
 }
