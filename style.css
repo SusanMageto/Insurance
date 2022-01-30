@@ -108,3 +108,7 @@ body {
 .baby1 p{
   font-size: x-small;
 }
+.baby2 {
+  display: flex;
+  flex-direction: row;
+}
