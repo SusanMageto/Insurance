@@ -181,6 +181,7 @@ body {
   justify-content: center;
   margin-top: 50px;
   font-size: small;
+  margin-bottom: 70px;
 }
 .free {
   border-style: solid;
@@ -223,4 +224,25 @@ body {
   border-radius: 3px;
   color: white;
   font-size: smaller;
+}
+.baby6 {
+  background-color: #252B42;
+}
+.world {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.baby6 h2 {
+  color: white;
+  font-size: medium;
+}
+.baby6 p {
+  color: white;
+  font-size: x-small;
+}
+.globe img {
+  width: 200px;
+  margin-top: 40px;
+  margin-left: 60px;
 }
