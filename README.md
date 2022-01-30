@@ -10,7 +10,7 @@ This application give an overview of what the insurance company offers and the p
 * Run on VS code
 * format
 ## Known Bugs
-NONE
+The application currently has no known bugs.
 ## Technologies Used
 * CSS 
 * HTML
