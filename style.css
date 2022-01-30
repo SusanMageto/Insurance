@@ -157,9 +157,10 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  border-style: solid;
+  border-style: none;
   width: 800px;
   background: linear-gradient(to right,#004688,#D54F89);
+  border-color: none;
 }
 .butform {
   background-color: #23A6F0;
@@ -238,6 +239,10 @@ body {
   align-items: center;
   padding: 20px;
   background-color: #252B42;
+  color: white;
+}
+.pa {
+  color: #23A6F0;
 }
 .baby5 button {
   background-color: #23A6F0;
