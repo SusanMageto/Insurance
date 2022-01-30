@@ -156,7 +156,15 @@ body {
 }
 .baby4 p {
   margin-right: 50px;
+  margin-top: 5px;
 }
 .subscribe {
-  margin-top: 20px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  width: 20px;
+  height: 10px;
+}
+.subscribe form button {
+  color: #23A6F0;
 }
