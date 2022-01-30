@@ -292,8 +292,21 @@ body {
   border-radius: 2px;
   color: white;
   font-size: x-small;
-  width: 142px;
+  width: 240px;
+  margin-top: 10px;
+  height: 20px;
+}
+.apcard {
+  width: 180px;
 }
 .apcard input {
   font-size: x-small;
+  width: 230px;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: thin;
+  height: 20px;
+}
+.apcard h3 {
+  text-align: center;
 }
