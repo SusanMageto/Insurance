@@ -12,7 +12,10 @@ This application give an overview of what the insurance company offers and the p
 ## Known Bugs
 NONE
 ## Technologies Used
-CSS, HTML. I used HTML to create the forms.
+* CSS 
+* HTML
+* GIT
+* I used HTML to create the forms.
 ## Support and contact details
 If you run into any issues or you have ways of improving my code, please reach out to me on 0715823203.
 ### License
