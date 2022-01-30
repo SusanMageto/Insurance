@@ -111,4 +111,23 @@ body {
 .baby2 {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.user {
+  margin-right: 20px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 5px;
+  text-align: center;
+  font-size: x-small;
+  width: 15%;
+  height: 50%;
+  padding: 2px;
+  border-width: thin;
+}
+.user img {
+  width: 50%;
+  height: 40%;
 }
