@@ -326,6 +326,12 @@ body {
   margin-right: 200px;
   font-size: small;
 }
+.consult p {
+  font-size: x-small;
+}
+.consult h3 {
+  font-size: medium;
+}
 .contactb  button {
   background-color: #23A6F0;
   color: white;
@@ -335,4 +341,16 @@ body {
   font-size: x-small;
   width: 80px;
 }
-.bab
+.baby8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: x-small;
+  margin-top: 60px;
+}
+.baby8 ul li {
+  list-style: none;
+}
+.baby8 h4 {
+  text-align: center;
+}
