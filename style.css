@@ -1,5 +1,9 @@
 body {
-  background-color: #252B42;
+  background-color: white;
+}
+.first {
+  background-color: grey;
+  background-image: url(/images/#hero-cover.3.png);
 }
 .nav {
   display: flex;
@@ -79,3 +83,4 @@ body {
 .card3 img {
   width: 50px;
 }
+.
