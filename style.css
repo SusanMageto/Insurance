@@ -2,8 +2,9 @@ body {
   background-color: white;
 }
 .first {
-  background-color: grey;
-  background-image: url(/images/#hero-cover.3.png);
+  background: url(/images/hero-cover.3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .nav {
   display: flex;
@@ -83,4 +84,27 @@ body {
 .card3 img {
   width: 50px;
 }
-.
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  margin-top: 70px;
+}
+.second img {
+  width: 60px;
+}
+.icon {
+  margin-right: 50px;
+  font-size: x-small;
+}
+.baby1 {
+  text-align: center;
+  margin-top: 40px;
+}
+.baby1 h2 {
+  font-size: medium;
+}
+.baby1 p{
+  font-size: x-small;
+}
