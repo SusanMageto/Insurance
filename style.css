@@ -7,7 +7,6 @@ body {
   color: white;
   font-size: small;
   justify-content: center;
-  background-image: url();
 }
 .brand h1 {
   font-size: small;
@@ -53,9 +52,12 @@ body {
   flex-direction: row;
   justify-content: center;
 }
+.cards img {
+  width: 65px;
+}
 .card1 {
   font-size: small;
-  padding-right: 20px;
+  padding-right: 10px;
   background-color: white;
   border-style: solid;
   border-color: white;
@@ -63,7 +65,7 @@ body {
 }
 .card2 {
   font-size: small;
-  padding-right: 20px;
+  padding-right: 10px;
   background-color: white;
   border-style: solid;
   border-color: white;
@@ -73,4 +75,7 @@ body {
   background-color:  #23A6F0;
   font-size: small;
   padding-right: 20px;
+}
+.card3 img {
+  width: 50px;
 }
