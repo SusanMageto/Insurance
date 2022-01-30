@@ -255,12 +255,13 @@ body {
   font-size: smaller;
 }
 .baby6 {
-  background-color: #252B42;
+  background: #252B42;
 }
 .world {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-bottom: 10px;
 }
 .baby6 h2 {
   color: white;
@@ -279,8 +280,10 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: white;
   font-size: x-small;
+  position: relative;
+  top: 120px;
+  margin-top: 5px;
 }
 .appointment img {
   width: 120px;
@@ -298,6 +301,9 @@ body {
 }
 .apcard {
   width: 180px;
+  background-color: white;
+  width: 235px;
+  padding-right: 30px;
 }
 .apcard input {
   font-size: x-small;
