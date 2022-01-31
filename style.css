@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 body {
   background-color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 .first {
   background: url(./images/hero-cover.3.png);
@@ -162,7 +164,7 @@ body {
   flex-direction: row;
   justify-content: center;
   border-style: none;
-  width: 800px;
+  width: 1000px;
   background: linear-gradient(to right,#004688,#D54F89);
   border-color: none;
 }
