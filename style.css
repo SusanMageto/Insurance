@@ -162,7 +162,7 @@ body {
   flex-direction: row;
   justify-content: center;
   border-style: none;
-  width: 800px;
+  width: 1200px;
   background: linear-gradient(to right,#004688,#D54F89);
   border-color: none;
 }
