@@ -11,7 +11,7 @@ body {
   flex-direction: row;
   color: white;
   font-size: small;
-  justify-content: center;
+  justify-content: center; 
 }
 .brand h1 {
   font-size: small;
@@ -383,4 +383,215 @@ body {
 }
 .foot p {
   font-size: x-small;
+}
+.ft {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.fb img {
+  width: 80px;
+  margin-left: 80px;
+}
+@media only screen and (max-width: 480px){
+  .baby3{
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .nav {
+    flex-direction: column;
+    background: grey;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .cards {
+    flex-direction: column;
+    margin-top: 3px;
+    width: 50px
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+
+  }
+}
+@media only screen and (max-width: 480px) {
+  .card1, .card2, .card3 {
+    text-align: center; 
+    top: 0px;
+}
+}
+@media only screen and (max-width: 480px) {
+  .div2 {
+    background-image: url(./images/hero-cover.3.png);
+    height: 150px;
+    margin-bottom: 10px;
+  }
+}
+@media screen only and (max-width: 480px) {
+  .div2 img {
+    align-items: right;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .card3 {
+    width: 215px;
+    margin-bottom: 50px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .card1 {
+    margin-bottom: 30px;
+    margin-top: 50px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .card2 {
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .button1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .blue {
+    width: 150px;
+    height: 35px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .white {
+    width: 110px;
+    margin-top: 20px;
+    background-color: transparent;
+    height: 35px;
+    margin-bottom: 40px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .first {
+    margin-bottom: 10px;
+  }
+}
+@media only screen and (max-width: 480px){
+  .second {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .baby2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .user {
+    margin-bottom: 20px;
+    width: 30%;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .baby4 {
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin-left: 90px;
+    height: 150px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .subscribe input {
+    border-style: none;
+    border-color: white;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .baby5 {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .free {
+    margin-bottom: 50px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .standard {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .world {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .appointment {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    top: 0px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .patient img {
+    width: 150px;
+    height: 400px;
+    margin-bottom: 0px;
+  }
+  @media only screen and (max-width: 480px) {
+    .baby6 {
+      width: 400px;
+      align-items: center;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .apcard {width: 100px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .apcard input {
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .appointment button {
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .baby7 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .consult h3 {
+    text-align: center;
+    margin-left: 130px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .consult p {
+    margin-left: 130px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .contactb {
+    margin-left: 100px;
+  }
 }
