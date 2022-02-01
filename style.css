@@ -577,6 +577,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-top: 30px;
   }
 }
 @media only screen and (max-width: 480px) {
@@ -587,11 +588,61 @@ body {
 }
 @media only screen and (max-width: 480px) {
   .consult p {
-    margin-left: 130px;
+    margin-left: 140px;
   }
 }
 @media only screen and (max-width: 480px) {
-  .contactb {
-    margin-left: 100px;
+  .consult {
+    flex-direction: column;
+    justify-content: center;
   }
 }
+@media only screen and (max-width: 480px) {
+  .cotactb button {
+    flex-direction: column;
+    margin-left: -120px;
+  }
+@media only screen and (max-width: 480px) {
+  .baby8 {
+    flex-direction: column;
+    align-items: center;
+    margin-left: -100px;
+    margin-top: 40px;
+  }
+  @media only screen and (max-width: 480px) {
+    .ft {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .fb {
+     margin-left: -150px; 
+  }
+}
+@media only screen and (max-width: 480px) {
+    .ft {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .nav ul {
+      display: grid;
+      text-align: center;
+      margin-left: -130px;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .last {
+      display: grid;
+      margin-left: -100px;
+      justify-content: space-evenly;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .butnav {
+     width: 200px;
+     margin-left: 150px;
+    }
+  }
